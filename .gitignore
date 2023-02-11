@@ -1,0 +1,8 @@
+node_modules
+elm-stuff
+.DS_Store
+.vscode
+.idea
+dist
+dist-ssr
+*.local
